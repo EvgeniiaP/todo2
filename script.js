@@ -11,6 +11,7 @@ function addTextToDo(){
   var newTextItem=document.querySelector('.input__text').value;
   addItemBlock(newTextItem);
   }
+  
 function addItemBlock(newTextItem){ 
        let newDiv = document.createElement('div');
        newDiv.className='item';
