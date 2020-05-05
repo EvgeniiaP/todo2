@@ -1,0 +1,25 @@
+{
+  "name": "testgit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "build": ".node_modules/.bin/parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvgeniiaP/todo2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvgeniiaP/todo2/issues"
+  },
+  "homepage": "https://github.com/EvgeniiaP/todo2#readme",
+  "devDependencies": {
+    "cssnano": "^4.1.10"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
