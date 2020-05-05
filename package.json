@@ -4,7 +4,7 @@
   "description": "",
   "main": "script.js",
   "scripts": {
-    "build": "C://Users/Jane/TestGit/node_modules/.bin/parcel build index.html"
+    "build": "C:/Users/Jane/TestGit/node_modules/.bin/parcel build index.html"
   },
   "repository": {
     "type": "git",
