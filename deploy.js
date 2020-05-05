@@ -1,7 +1,7 @@
 const Client = require('ftp');
 const fs = require('fs');
 const folderDist = './dist/';
-const upLoadFolder = 'public_html';
+const upLoadFolder = 'http';
 
 var c = new Client();
 
@@ -20,7 +20,7 @@ c.on('ready', function() {
 
 let connectOption = {
   host: 'probapera202-ru.1gb.ru',
-  login: 'w_probapera202-ru_cc940b2f	',
+  user: 'w_probapera202-ru_cc940b2f',
   password: 'c88ca29z5a'
 }
 
