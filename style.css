@@ -27,18 +27,18 @@ body{
     font-family: Roboto, sans-serif, serif;
     color:  #2930ff;
     position: relative;
-        }
+}
         
     .input__text, .input__text:focus, .input__text:active{
             outline: none;
-        }
+    }
 
     button,  .input__text{
     -webkit-transition: .5s;
     -moz-transition: .5s;
     -o-transition: .5s;
     transition: .5s;
-}
+    }
     button.header__btn-changeColor{
         position: absolute;
         left: 1em;
@@ -132,4 +132,3 @@ button.btn-rem:hover{
     font-size: 1.5em;
     cursor: pointer;
     }
-
