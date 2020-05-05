@@ -20,7 +20,7 @@ c.on('ready', function() {
 
 let connectOption = {
   host: 'probapera202-ru.1gb.ru',
-  user: 'w_probapera202-ru_cc940b2f	',
+  login: 'w_probapera202-ru_cc940b2f	',
   password: 'c88ca29z5a'
 }
 
